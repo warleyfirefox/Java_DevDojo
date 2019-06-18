@@ -1,0 +1,17 @@
+.DS_Store
+.project
+.classpath
+.settings
+target
+/bin/
+install.sh
+**/.idea
+**/*.iml
+/target/
+target/*
+bin/*
+*.settings
+*.jar
+aic.json
+Doxyfile
+README.md
